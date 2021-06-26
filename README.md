@@ -11,6 +11,7 @@ This is a Selenium Hybrid Framework.
  - Video Recording - Automation-Remarks
  - Ashot - To Capture Full Page Screenshot
 
+testing now
 ### Browsers Supported
  - Mozilla Firefox
  - Google Chrome
